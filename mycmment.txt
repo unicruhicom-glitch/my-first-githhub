@@ -1,0 +1,17 @@
+# User 1 Configuration (Zameer)
+Host github.com-user1
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_user1_key
+
+# User 2 Configuration (Ruhi/Unicruhicom-glitch)
+Host github.com-user2
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_user2_key
+
+# User 3 Configuration (Falak)
+Host github.com-user3
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_user3_key
